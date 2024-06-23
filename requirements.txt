@@ -1,0 +1,11 @@
+tqdm
+seaborn
+openpyxl
+Pillow
+nbconvert
+numpy
+pandas
+scipy
+matplotlib
+tensorflow
+scikit-learn
