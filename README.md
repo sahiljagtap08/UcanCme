@@ -17,6 +17,7 @@ The motivation behind this project stems from the need to improve the safety and
 - **Scikit-learn**: Employed for preprocessing tasks such as data normalization and splitting.
 - **TensorFlow and Keras**: Used to build, train, and evaluate the LSTM model.
 - **Matplotlib**: Utilized for data visualization and plotting results.
+- **Intel® Tiber™ Developer Cloud**
 
 #### Data Collection
 
